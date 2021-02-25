@@ -1,4 +1,3 @@
-package IB;
 import java.io.*;
 public class BinaryStringSum {
     public static void main(String[]  args)throws IOException
